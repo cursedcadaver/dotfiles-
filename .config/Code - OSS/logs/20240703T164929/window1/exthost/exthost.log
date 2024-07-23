@@ -1,0 +1,70 @@
+2024-07-03 16:49:34.893 [info] Extension host with pid 31382 started
+2024-07-03 16:49:34.893 [info] Skipping acquiring lock for /home/chacha/.config/Code - OSS/User/workspaceStorage/bc513cd826f04260dda666756ff5f557.
+2024-07-03 16:49:35.602 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-03 16:49:35.628 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-03 16:49:35.758 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-03 16:49:36.427 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-03 16:49:37.016 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-03 16:49:37.140 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-03 16:49:37.512 [info] Eager extensions activated
+2024-07-03 16:49:37.694 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-03 16:49:37.702 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-03 16:49:37.727 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-07-03 16:49:37.743 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-07-03 16:49:38.357 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at p.y (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2067:8488)
+    at p.E (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2067:12802)
+    at p.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2067:5334)
+    at Object.factory (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2067:5234)
+    at R.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:138:17938)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:138:17848
+    at new Promise (<anonymous>)
+    at R.queue (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:138:17787)
+    at p.writeConfiguration (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2067:5203)
+    at W.Hb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2067:32905)
+    at async Promise.all (index 0)
+    at async Object.te [as settled] (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:138:24509)
+    at async W.updateValue (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2067:20080)
+2024-07-03 16:56:00.339 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-03 17:08:36.079 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-03 17:08:36.127 [error] Error: Channel has been closed
+	at h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:2490)
+	at Object.appendLine (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:2608)
+	at Object.log (/home/chacha/.vscode-oss/extensions/tabnine.tabnine-vscode-3.120.0-universal/out/extension.js:17:168663)
+	at Object.error (/home/chacha/.vscode-oss/extensions/tabnine.tabnine-vscode-3.120.0-universal/out/extension.js:17:169007)
+	at t.default.request (/home/chacha/.vscode-oss/extensions/tabnine.tabnine-vscode-3.120.0-universal/out/extension.js:17:39259)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async Promise.all (index 10)
+	at async u.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7882)
+2024-07-03 17:08:36.128 [error] Canceled: Canceled
+	at new A (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at Object.dispose (/home/chacha/.vscode-oss/extensions/tabnine.tabnine-vscode-3.120.0-universal/out/extension.js:17:99856)
+	at a.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at /home/chacha/.vscode-oss/extensions/tabnine.tabnine-vscode-3.120.0-universal/out/extension.js:17:38130
+	at Array.forEach (<anonymous>)
+	at h (/home/chacha/.vscode-oss/extensions/tabnine.tabnine-vscode-3.120.0-universal/out/extension.js:17:38115)
+	at Object.dispose (/home/chacha/.vscode-oss/extensions/tabnine.tabnine-vscode-3.120.0-universal/out/extension.js:17:37501)
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-03 17:08:36.135 [info] Extension host with pid 31382 exiting with code 0

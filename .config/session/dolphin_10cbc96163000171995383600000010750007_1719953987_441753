@@ -1,0 +1,12 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x006file:///home/chacha/Downloads/dotfiles-main/wallpapers\x00\x00\x00\x00\x01\x00\x00\x00Ffile:///home/chacha/Downloads/dotfiles-main/wallpapers/audio-bunny.png\x00\x00\x00\x0c\x00\x00\x00Ffile:///home/chacha/Downloads/dotfiles-main/wallpapers/audio-bunny.png\x00\x00\x00?file:///home/chacha/Downloads/dotfiles-main/wallpapers/bass.jpg\x00\x00\x00>file:///home/chacha/Downloads/dotfiles-main/wallpapers/boy.jpg\x00\x00\x00Gfile:///home/chacha/Downloads/dotfiles-main/wallpapers/city-sundown.jpg\x00\x00\x00Hfile:///home/chacha/Downloads/dotfiles-main/wallpapers/forest_stairs.jpg\x00\x00\x00@file:///home/chacha/Downloads/dotfiles-main/wallpapers/light.jpg\x00\x00\x00@file:///home/chacha/Downloads/dotfiles-main/wallpapers/night.jpg\x00\x00\x00Cfile:///home/chacha/Downloads/dotfiles-main/wallpapers/nightsky.jpg\x00\x00\x00Afile:///home/chacha/Downloads/dotfiles-main/wallpapers/omori1.jpg\x00\x00\x00Afile:///home/chacha/Downloads/dotfiles-main/wallpapers/omori2.jpg\x00\x00\x00@file:///home/chacha/Downloads/dotfiles-main/wallpapers/paint.png\x00\x00\x00>file:///home/chacha/Downloads/dotfiles-main/wallpapers/sky.jpg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1

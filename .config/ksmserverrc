@@ -1,0 +1,52 @@
+[General]
+loginMode=restorePreviousLogout
+
+[LegacySession: saved at previous logout]
+count=0
+
+[LegacySession: saved by user]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10cbc96163000172071134400000301020004
+clientId2=10cbc96163000172071134400000301020005
+count=2
+program1=/usr/bin/msm_kde_notifier
+program2=/usr/bin/pamac-tray-plasma
+restartCommand1=/usr/bin/msm_kde_notifier,-session,10cbc96163000172071134400000301020004_1720711383_646341
+restartCommand2=/usr/bin/pamac-tray-plasma,-session,10cbc96163000172071134400000301020005_1720711383_646349
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=chacha
+userId2=chacha
+
+[Session: saved by user]
+clientId1=10cbc96163000171995382300000010750004
+clientId2=10cbc96163000171995382300000010750005
+clientId3=10cbc96163000171995383600000010750007
+clientId4=10cbc96163000171995384300000010750008
+clientId5=10cbc96163000171995385400000010750009
+count=5
+discardCommand3[$e]=rm,$HOME/.config/session/dolphin_10cbc96163000171995383600000010750007_1719953987_441753
+discardCommand4[$e]=rm,$HOME/.config/session/dolphin_10cbc96163000171995384300000010750008_1719953987_442290
+discardCommand5[$e]=rm,$HOME/.config/session/kate_10cbc96163000171995385400000010750009_1719953987_442290
+program1=/usr/bin/msm_kde_notifier
+program2=/usr/bin/pamac-tray-plasma
+program3=/usr/bin/dolphin
+program4=/usr/bin/dolphin
+program5=/usr/bin/kate
+restartCommand1=/usr/bin/msm_kde_notifier,-session,10cbc96163000171995382300000010750004_1719953987_441677
+restartCommand2=/usr/bin/pamac-tray-plasma,-session,10cbc96163000171995382300000010750005_1719953987_441677
+restartCommand3=/usr/bin/dolphin,-session,10cbc96163000171995383600000010750007_1719953987_441753
+restartCommand4=/usr/bin/dolphin,-session,10cbc96163000171995384300000010750008_1719953987_442290
+restartCommand5=/usr/bin/kate,-session,10cbc96163000171995385400000010750009_1719953987_442290
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=chacha
+userId2=chacha
+userId3=chacha
+userId4=chacha
+userId5=chacha

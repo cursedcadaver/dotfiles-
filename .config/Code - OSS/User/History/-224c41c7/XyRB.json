@@ -1,0 +1,7 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Fira C"
+}

@@ -1,0 +1,23 @@
+2024-07-15 12:50:04 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-07-15 12:50:05 Checking for update using Github
+2024-07-15 12:50:06 Success.
+2024-07-15 12:50:06 Latest version is 1.6.5
+2024-07-15 12:50:06 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/obsidian-1.6.5.asar.gz
+2024-07-15 12:50:18 Verifying hash & signature. Size= 8839622
+2024-07-15 12:50:18 Saving file
+2024-07-15 12:50:20 Update complete.
+2024-07-15 14:55:18 Loading updated app package /home/chacha/.config/obsidian/obsidian-1.6.5.asar
+2024-07-15 14:55:18 Checking for update using Github
+2024-07-15 14:55:19 Success.
+2024-07-15 14:55:19 Latest version is 1.6.5
+2024-07-15 14:55:19 App is up to date.
+2024-07-16 13:14:37 Loading updated app package /home/chacha/.config/obsidian/obsidian-1.6.5.asar
+2024-07-16 13:14:38 Checking for update using Github
+2024-07-16 13:14:38 Success.
+2024-07-16 13:14:38 Latest version is 1.6.5
+2024-07-16 13:14:38 App is up to date.
+2024-07-16 14:05:32 Loading updated app package /home/chacha/.config/obsidian/obsidian-1.6.5.asar
+2024-07-16 14:05:33 Checking for update using Github
+2024-07-16 14:05:33 Success.
+2024-07-16 14:05:33 Latest version is 1.6.5
+2024-07-16 14:05:33 App is up to date.

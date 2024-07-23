@@ -1,0 +1,19 @@
+vscode-userdata:/home/chacha/.config/Code%20-%20OSS/User/settings.json {"mtime":1720015706232,"ctime":1720015706232,"size":597,"etag":"3ckihak1nj8","orphaned":false,"typeId":""}
+{
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontLigatures": true,
+    "workbench.preferredHighContrastLightColorTheme": "Catppuccin Macchiato",
+    "workbench.preferredLightColorTheme": "Catppuccin Macchiato",
+    "workbench.colorCustomizations": {
+        "[Catppuccin Latte]": {}
+    },
+    "editor.fontSize": 20,
+    "editor.fontVariations": false,
+    "tabnine.experimentalAutoImports": true
+
+}
+
