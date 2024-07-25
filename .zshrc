@@ -21,8 +21,9 @@ zmodload zsh/complist
 compinit
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time Oh My Zsh is loaded, in which case,
-ZSH_THEME="robbyrussell"
+ZSH_THEME="agnoster"
 
+PROMPT='%{$fg[cyan]%}☽ %{$reset_color%}'
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
@@ -128,9 +129,13 @@ alias lsf="${base_ls} -f"
 alias cls="clear"
 alias cd="z"
 alias tree="eza --tree"
+alias bt="bluetui"
+alias fk="fuck"
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 eval "$(zoxide init zsh)"
+
+eval $(thefuck --alias)

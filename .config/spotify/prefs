@@ -1,9 +1,10 @@
-autologin.username="jihvp47bnnj3kvjvuc60tx2zc"
-autologin.saved_credentials="{\"jihvp47bnnj3kvjvuc60tx2zc\":[\"jihvp47bnnj3kvjvuc60tx2zc\",\"c9bcVfdHj+euT01kJzUIw6kEpW+hVSPEQyrCyOcNK6qzbvDwxKjUh0YiXsEpiVpD+lizyvG+F2WE2+haLWHwz78GxedujcvqtI3YgnHLWV75fF1XnMQzh5rhyxRmdhhX1Cyigl5TpMZwtITq+QJiwJwoTixlWZ9LrnFrxj5KXK3AZmKruEX46gLkfRdpVkbX7htHhqSG7QEw/sU/32//34c5OlX2kxDsXx0XV2jmGj/m1wwhsCCyurtuQJMyz/PCxaoAuzWt6kT6k1TtJ8Z9IfukdLVRMEiVnyoAy9wy8ZvbZ1sabLKp7NCCKkim5WH00cKX0O0fgQPPYfrgaRyZog==\"]}"
-autologin.blob="c9bcVfdHj+euT01kJzUIw6kEpW+hVSPEQyrCyOcNK6qzbvDwxKjUh0YiXsEpiVpD+lizyvG+F2WE2+haLWHwz78GxedujcvqtI3YgnHLWV75fF1XnMQzh5rhyxRmdhhX1Cyigl5TpMZwtITq+QJiwJwoTixlWZ9LrnFrxj5KXK3AZmKruEX46gLkfRdpVkbX7htHhqSG7QEw/sU/32//34c5OlX2kxDsXx0XV2jmGj/m1wwhsCCyurtuQJMyz/PCxaoAuzWt6kT6k1TtJ8Z9IfukdLVRMEiVnyoAy9wy8ZvbZ1sabLKp7NCCKkim5WH00cKX0O0fgQPPYfrgaRyZog=="
-core.clock_delta=0
 autologin.canonical_username="jihvp47bnnj3kvjvuc60tx2zc"
+autologin.blob="c9bcVfdHj+euT01kJzUIw6kEpW+hVSPEQyrCyOcNK6qzbvDwxKjUh0YiXsEpiVpD+lizyvG+F2WE2+haLWHwz78GxedujcvqtI3YgnHLWV75fF1XnMQzh5rhyxRmdhhX1Cyigl5TpMZwtITq+QJiwJwoTixlWZ9LrnFrxj5KXK3AZmKruEX46gLkfRdpVkbX7htHhqSG7QEw/sU/32//34c5OlX2kxDsXx0XV2jmGj/m1wwhsCCyurtuQJMyz/PCxaoAuzWt6kT6k1TtJ8Z9IfukdLVRMEiVnyoAy9wy8ZvbZ1sabLKp7NCCKkim5WH00cKX0O0fgQPPYfrgaRyZog=="
+autologin.saved_credentials="{\"jihvp47bnnj3kvjvuc60tx2zc\":[\"jihvp47bnnj3kvjvuc60tx2zc\",\"c9bcVfdHj+euT01kJzUIw6kEpW+hVSPEQyrCyOcNK6qzbvDwxKjUh0YiXsEpiVpD+lizyvG+F2WE2+haLWHwz78GxedujcvqtI3YgnHLWV75fF1XnMQzh5rhyxRmdhhX1Cyigl5TpMZwtITq+QJiwJwoTixlWZ9LrnFrxj5KXK3AZmKruEX46gLkfRdpVkbX7htHhqSG7QEw/sU/32//34c5OlX2kxDsXx0XV2jmGj/m1wwhsCCyurtuQJMyz/PCxaoAuzWt6kT6k1TtJ8Z9IfukdLVRMEiVnyoAy9wy8ZvbZ1sabLKp7NCCKkim5WH00cKX0O0fgQPPYfrgaRyZog==\"]}"
+es.send-on-startup=true
+core.clock_delta=0
 app.window.position.x=42
+autologin.username="jihvp47bnnj3kvjvuc60tx2zc"
 app.enable-chrome-runtime=true
 app.window.position.saved=true
 app.window.position.height=961
@@ -11,4 +12,4 @@ app.window.position.y=77
 storage.last-location="/home/chacha/.cache/spotify/Storage"
 app.window.state.saved=true
 app.window.position.width=1836
-app.last-launched-version="1.2.40.599.g606b7f29"
+app.last-launched-version="1.2.42.290.g242057a2"
