@@ -1,4 +1,0 @@
-2024-07-03 16:49:29.550 [info] update#setState disabled
-2024-07-03 16:49:29.555 [info] update#ctor - updates are disabled as there is no update URL
-2024-07-03 16:56:08.845 [error] CodeWindow: failed to load (reason: ERR_BLOCKED_BY_RESPONSE, code: -27)
-2024-07-03 17:08:36.141 [info] Extension host with pid 31382 exited with code: 0, signal: unknown.
